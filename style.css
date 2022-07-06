@@ -1,25 +1,15 @@
-.attribution { font-size: 11px; text-align: center; }
-.attribution a { color: hsl(228, 45%, 44%); }
-
-
-.column-left {
-    float: left;
-    width: 50%;
-  }
-
-  .column-right {
-    float: right;
-    width: 50%;
-  }
-
-/*
-.left {
-    display: inline;
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
 }
 
+body {
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #;
 
-.right {
-    display: inline-block;
-    color: red;
 }
-*/
