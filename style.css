@@ -28,7 +28,7 @@ main {
 
 .left {
   width: 50%;
-  background-image: url(/images/image-product-desktop.jpg);
+  background-image: url(./images/image-product-desktop.jpg);
   background-position: center;
   background-size: cover;
   border-top-left-radius: 10px;
